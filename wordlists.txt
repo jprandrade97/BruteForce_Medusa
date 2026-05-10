@@ -1,0 +1,17 @@
+GNU nano 8.7.1                               users.txt
+user
+msfadmin
+admin
+root
+
+GNU nano 8.7.1                               pass.txt                                        
+123456
+password
+qwerty
+msfadmin
+
+
+
+
+
+
